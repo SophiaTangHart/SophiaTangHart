@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Sophia Hart.
 
-- 👀 I’m interested in machine learning and AI technologies.
+- 👀 I’m interested in machine learning and AI technologies. I hope to be a data scientist.
 
-- 🌱 Prior to taking a break to serve as caregiver for my young children, I worked at prestigious companies / institutions including Intel, Sandia Lab and UCSF. I have earned degrees, including 3 Master’s degrees, from top-ranked universities like Berkeley and Cornell. I recently completed my Data Science Certificate Program from Berkeley Extension with Distinction, and I was at the top of all my classes. My capstone project is entitled “Wildfire Detection
-with Deep Convolutional Neural Network”. I am proactive and detailed-oriented, I value collaboration, and I am a lifelong and fast learner. I apply the experience I gain working as a scientist and engineer in industry and academia (problem solving, applying scientific method, rigorous attention to detail) in my current pursuits in machine learning and data science. 
+- 🌱 These were some of the projects I did during my Data Science Certification at UC Berkeley Extension. I've worked at UCSF, Intel, Sandia National Laboratoires, and earned 3 Master's degrees. After taking a career break to serve as caregiver for my young children, I did my certification to prepare me to return to Tech. I had very positive experience learning updated technologies, working on interesting projects, solving problems through coding, and regaining my confidence because I finished with Distinction. I would like to keep working on projects and coding, and keep adding exciting projects to my Github.     
 
-- 💞️ I’m looking for Data Scientist, ML Eng or Data Eng role in San Francisco or remotely.
+- 💞️ I would like to hear any feedback you may have for me. Thank you.
 
 - 📫 You can reach me at sophia.t.hart@gmail.com
 
