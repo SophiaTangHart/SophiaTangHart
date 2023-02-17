@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Sophia Hart.
 
-- 👀 I’m interested in machine learning and AI technologies. I hope to be a data scientist.
+- 👀 I’m interested in machine learning and AI technologies and I am looking for a data scientist position.
 
-- 🌱 These were some of the projects I did during my Data Science Certification at UC Berkeley Extension. I've worked at UCSF, Intel, Sandia National Laboratoires, and earned 3 Master's degrees. After taking a career break to serve as caregiver for my young children, I did my certification to prepare me to return to Tech. I had very positive experience learning updated technologies, working on interesting projects, solving problems through coding, and regaining my confidence because I finished with Distinction. I would like to keep working on projects and coding, and keep adding exciting projects to my Github.     
+- 🌱 I specialize in Data Science/Analytics. I've previously worked at University of California San Francisco on stem cells, Intel on circuit design, and Sandia National Laboratories on mircrofabrication. I graduated from the UC Berkeley Data Science program in 2022 and was awarded Distinction. I'm looking for a role where I can use my previous expertise in semiconductor and biotech, combined with my new expertise in machine learning. Ideally the company has less then 200 employees and offers a hybrid or remote option.
+  
 
-- 💞️ I would like to hear any feedback you may have for me. Thank you.
+- 💞️ I look forward to the opportunity to discuss my qualifications further.
 
 - 📫 You can reach me at sophia.t.hart@gmail.com
 
