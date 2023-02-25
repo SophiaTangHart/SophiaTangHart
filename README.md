@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sophia Hart.
 
-- 👀 I’m interested in machine learning and AI technologies and I am looking for a data scientist position.
+- 👀 I’m interested in machine learning and AI in biotech.
 
 - 🌱 I specialize in Data Science/Analytics. I've previously worked at University of California San Francisco on stem cells, Intel on circuit design, and Sandia National Laboratories on mircrofabrication. I graduated from the UC Berkeley Data Science program in 2022 and was awarded Distinction. I'm looking for a role where I can use my previous expertise in biotech, combined with my new expertise in machine learning.
   
