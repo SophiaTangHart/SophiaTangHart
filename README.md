@@ -2,14 +2,9 @@
 
 - 👀 I’m interested in AI/ML/DL and data science/analytics.
 
-- 🌱 I grew up in China and immigrated to the US during high school. I overcame social-economics challenges and cultural changes, earned 3 Master's degrees and have worked at prestigious organizations. I studied Electrical Engineer and Computer Science at UC Berkeley and Biomedical Engineering at Cornell. I worked as a Research Specialist at UCSF and Circuit Design Engineer at Intel. 
-- 
--   I spent a few years as a Household Manager and Childcare Provider for my young children, then I went back to school at UC Berkeley and studied Data Science, where I was awarded Distinction. Today my greatest career accomplishement includes successfully cultured human neural stem cells and imaged their development in animal brains to find treatments for human neurological diseases. 
--   
--   My expertise includes statistics, programming, machine learning, and problem-solving. I have good oral and written communication skills and enjoy working with others. In the last 3 years, I have worked on many data science projects, including a Kaggle competition on Climate Change, Wildfires Detection, and Breast Cancer Classification.
-  
+- 🌱 With over 10 years of combined experience in programming, statistics, and machine learning, I am a data science professional who is passionate about applying data-driven solutions to real-world problems. I have a Professional Certificate in Data Science from UC Berkeley, where I was awarded Distinction, and three Master's degrees in Electrical and Computer Engineering, Biomedical Engineering, and Quantitative and Systems Biology from Cornell, UC Davis, and UC Merced.
 
-- 💞️ I am open to work right now. I look forward to the opportunity to discuss my qualifications further. I hope you enjoy reading my code and presentations.
+Currently, I work as a Data and Policy Analyst - Statistical Programmer at Acumen, LLC, where I analyze large and complex datasets to support health policy research and evaluation. I also have experience as a Machine Learning Data Scientist at NexusEdge Education, a career development platform powered by AI, where I strategized and implemented new generative AI applications in EdTech and workforce. Additionally, I have a strong background in biomedical and neural engineering, having worked as a circuit design engineer at Intel and a research specialist at UCSF. I have published a journal article on the influence of band properties on the response of retinal neurons to electric stimulation. I am proficient in Python, R, SQL, SAS, TensorFlow, LightGBM, and XGBoost, and fluent in English, Mandarin, and Cantonese.
 
 - 📫 You can reach me at sophia.t.hart@gmail.com
 
