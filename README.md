@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Sophia T Hart.
+- 👋 Hi, My name is S.T. Hart.
 
 - 👀 I’m interested in applying AI/ML and data science/analytics to predict and improve system efficiency and outcomes.
   
