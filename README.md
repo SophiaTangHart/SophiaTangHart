@@ -1,18 +1,22 @@
-- 👋 Hi, My name is S.T. Hart.
+- 👋 Hi, My name is Sophia T. Hart.
 
-- 👀 I’m interested in applying AI/ML and data science/analytics to predict and improve system efficiency and outcomes.
+- 👀 About Me:
+- I was born in China, moved to the U.S., and got 3 graduate degrees. I studied EECS at Berkeley and Biomedical Engineering at Cornell.
+- Professionally, I've worked at Open AI, AAA, Acumen/CMS, UCSF, Sandia National Labs, and Intel. My experience ranges from hardware design and microfabrication, to neural regenerative medicine, to AI and data.
+- I’m interested in applying AI/ML and data science/analytics to improve human health.
+- I'm CEO of Vox Sway, missioned to support emotional wellness using voice AI and learned sensory experiences.
   
-- 🌱 I obtained two technical certificates from Google in 2025: Agentic AI and GenAI. You can find the capstone projects from both intensive training here: Green Technology Research Agents and, Recipe Recommendation Chatbot with Customed Ingredient Inventory Database.
-- Additionally, you will find 4 projects I did during my Data Science Professional Certificate Program at UC Berkeley, awarded with Distinction, 2021-2022:
-  Breast Cancer Classification (Benign or malignant),
-  COVID-19 and Race,
-  Bank Loan Risk,
-  Wildfires Detection using Computer Vision (CNN).
-- 2 projects were from my Women in Data Science (WiDS) Datathon competitions.
-  Climate Change: Developed adaptation forecast using advanced machine learning in Python, XGBoost and LightGBM models; ranked top 20% of 2,000 global participants in WiDS Datathon 2023.
-  Health Equity: Predicted total days to diagnose metastatic TNBC breast cancer using real-world data to identify patients under inequility using Python, Deep Learning, TensorFlow-Keras, and kNNImputer; ranked top 25% of 1,600 global participants in WiDS Datathon 2024, #2.
+- 🌱 What's in this GitHub (other work related projects can't be posted here)
+- Deep Research Agent (You can see an example on Green Technology)
+- Customed Ingredient Inventory Database built for Recipe chatbot
+- Breast Cancer Classification (Benign or malignant)
+- COVID-19 and Race data visualization
+- Bank Loan Risk
+- Wildfires Detection using Computer Vision (CNN).
+- Climate Change: Developed adaptation forecast using advanced machine learning in Python, XGBoost and LightGBM models; ranked top 20% of 2,000 global participants in WiDS Datathon 2023.
+- Health Equity: Predicted total days to diagnose metastatic TNBC breast cancer using real-world data to identify patients under inequility using Python, Deep Learning, TensorFlow-Keras, and kNNImputer; ranked top 25% of 1,600 global participants in WiDS Datathon 2024, #2.
 
-- 📫 I'm delighted to meet nice and wise people from differnt part of the world and experiences. I can be reached at sophia.t.hart@gmail.com.
+- 📫 I'm delighted to meet nice and wise people from different part of the world and experiences. I can be reached at sophia.t.hart@gmail.com.
 
 <!---
 SophiaTangHart/SophiaTangHart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
